@@ -8,8 +8,6 @@ void main()
 	float average_wt;
 	printf("Enter no of students:");
 	scanf("%d",&n);
-	if(p[i]< = p[j])
-		printf("Enter the correct details");
 	for(i=0;i<n;i++)
 	{
 		printf("enter students %d name:",i+1);
